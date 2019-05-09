@@ -1,0 +1,18 @@
+html {background-color: #f5f5f5;}
+p {
+    font-family: Times New Roman, serif;
+    color: #ff9966;
+    font-size: 11pt;
+}
+
+h1 {
+    font-family: Impact, fantasy;
+    color: dodgerblue;
+    font-size: 25pt;
+}
+
+h2 {
+    font-family: Helvetica, serif;
+    color: #336699;
+    font-size: 18pt;
+}
